@@ -1,0 +1,17 @@
+div.navbar {
+  width: 100vw;
+  max-width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+ul.navlinks {
+  width: 20%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+}
